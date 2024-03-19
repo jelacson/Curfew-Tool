@@ -1,0 +1,4 @@
+face recognition: https://github.com/computervisioneng/face-recognition-javascript-webcam-faceapi/blob/main/README.md
+MERN app: https://blog.nextideatech.com/how-to-get-started-with-the-mern-stack-a-comprehensive-guide/
+Attendylical: https://medium.com/analytics-vidhya/implement-a-face-recognition-attendance-system-with-face-api-js-part-iii-4ed3ffc49479
+
